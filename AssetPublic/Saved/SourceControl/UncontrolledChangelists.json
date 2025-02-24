@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/VP_workspace/AssetPublic/Content/WIP/TA/jeongjoArrow_simbody_v07.uasset",
+				"C:/VP_workspace/AssetPublic/Content/WIP/TA/LV_TestABC/ABC_TestLevel.umap",
+				"C:/VP_workspace/AssetPublic/Content/WIP/TA/output.uasset",
+				"C:/VP_workspace/AssetPublic/Content/WIP/TA/jeongjoOnHorse_clothSim_v03_mat.uasset",
 				"E:/LV_Assset/AssetPublic/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/LV_Assset/AssetPublic/Content/Public/Asset.umap"
 			]
