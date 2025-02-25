@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/assets/0_Modeling/0_BP/Fire/ShipFire2.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/WIP/TA/Effect/Ni_Fire_00.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/WIP/TA/Effect/Ni_Fire_Candle_01.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/AYUB_dongjangdae/CANDLE/NCandleFire_BP.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/Maps/Injeongjeon_v003.umap",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/GeunjeongjeonComplex/Geunjeongjeon/MasterMaterial/MM_GJJ.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/Maps/Geunjeongjeon.umap",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/assets/0_Modeling/Asset_1203add/_BP/Chotdae.uasset",
+				"C:/VP_workspace/Binlye_Injeongjeon/Content/assets/0_Modeling/Asset_1203add/_BP/Chotdae2.uasset"
+			]
+		}
+	]
+}
